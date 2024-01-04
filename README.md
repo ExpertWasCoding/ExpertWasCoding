@@ -1,4 +1,4 @@
-# 💫 Hi this is expert and there is bomb in your mailbox
+# 💫 Hi this is expert and there is a bomb in your mailbox
 👨‍💻 Self-taught Developer<br>🐍 Python/Rust Enthusiast<br>📱 Former Android Developer<br>🤖 Discord API Developer<br>📚 Currently diving into Data Structures and Algorithms<br>♟️ Part-Time Chess Enthusiast Chess.com (https://www.chess.com/member/itsmeexpert)
 
 
